@@ -1,8 +1,8 @@
-a = 3
-b = 2
+x = 3
+y = 2
 
-def fun(x,y):
-    z = x+y
-    return z
+def fun(a,b):
+    c = a+b
+    return c
 
-print(fun(a,b))
+print(fun(x,y))
